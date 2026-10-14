@@ -5,7 +5,6 @@ This project analyzes Uber ride data to understand trip trends, revenue, and dem
 
 ## 🛠 Tools Used
 - Power BI / Excel
-- SQL (optional)
 - GitHub
 
 ## 📈 Key Insights
